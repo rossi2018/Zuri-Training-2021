@@ -31,3 +31,20 @@ else:
     print('Error, something went wrong with your inputs')
 
 # With all the conditional(if,elif and else) the program goes from the top to bottom
+
+#A normal   conditional program vs a concise conditional programm
+print('Normal conditional programm -------------------------------------------------')
+
+#Normal conditional program
+number=10
+if number > 10:
+    print('Yes number is greater or equals to 10')
+elif number==10:
+    print('Yes number is equal to 10')
+else:
+    print(f'{number} is not greater than 10')
+
+
+#A concise conditional program
+print('A concise conditional programm-----------------------------------------------')
+print('Yes number is greater or equals to 10' if number > 10 else f'{number} is not greater than 10')
