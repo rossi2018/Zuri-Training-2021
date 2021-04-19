@@ -27,3 +27,6 @@
 #Creating a Super User for Django Application=
 #python3 manage.py createsuperuser
 #Note:You use your django admin to register your model 
+
+
+

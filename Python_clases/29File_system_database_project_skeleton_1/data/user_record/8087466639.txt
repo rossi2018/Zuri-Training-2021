@@ -1,0 +1,1 @@
+['Rossi', 'Otali', 'rotali77@gmail.com', 'password', 0]
