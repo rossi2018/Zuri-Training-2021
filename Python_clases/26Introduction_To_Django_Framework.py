@@ -3,8 +3,8 @@
 #use this comand to install django= 
 # pip3 install Django
 #---------------------------------------------------->>
-#Create A Django Application
-#use this command to create django application=
+#Create A Django Project
+#use this command to create django project=
 #django-admin startproject <name of application>
 #---------------------------------------------------->>
 #To run our first django server ,use this command=
